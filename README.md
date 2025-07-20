@@ -1,5 +1,5 @@
 # New Project
 
 This project was created from local system.
-Create by shradha khabra
+Create by shradha khabra.
 
